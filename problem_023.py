@@ -1,5 +1,5 @@
 # Date: 2020.07.19
-# Answer: 
+# Answer: 4179871
 
 # prompt: all integers greater than 28123 can be written as the sum of two abundant numbers
 max_int = 28123
